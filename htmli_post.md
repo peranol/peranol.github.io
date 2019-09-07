@@ -3,12 +3,16 @@ member :
 Ardnarong Boonkerd  
 Suparath Suwannakorth  
 Peranol Akkarasarateera  
-- 
+  <p align="center">
+    <img src="PIC/bWAPP - HTML Injection.png">
+  </p>
 
 -ทดสอบช่องโหว่ด้วยการ input html code
 -test<img src="http://192.168.43.95/bWAPP/images/blogger.png" />
 -ลงทั้ง 2 ช่อง input
--
+  <p align="center">
+    <img src="PIC/bWAPP - HTML Injection (1).png">
+  </p>
 
 -จากนั้นระบบจะแสดงตามรูป  
 -
