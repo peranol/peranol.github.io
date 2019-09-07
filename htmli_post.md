@@ -1,5 +1,5 @@
 HTML Injection (POST)  
-Name group :  
+member :  
 Ardnarong Boonkerd  
 Suparath Suwannakorth  
 Peranol Akkarasarateera  
@@ -15,7 +15,14 @@ Peranol Akkarasarateera
 
 -แสดงว่าสามารถทำ html injection ได้ทั้ง 2 input  
 -วิธีการแก้ไข   
-1. download code ชื่อ htmli_post.php โดยใช้  winscp  
-    1.1 login winscp ด้วย  
-           user : bob  
-           password : bob456  
+- download code ชื่อ htmli_post.php โดยใช้  winscp  login ด้วย user : bob/password : bob456  
+-
+
+-จากนั้นเปิดไฟล์ เพื่อแก้ไข code พบว่าไม่มีการ validation ตัวแปร firstname + lastname
+-
+
+-ในการแก้ไขสามารถใช้ function อื่น ได้แก่ strip_tags เป็นต้น  
+-จากนั้นทำการ rename จาก htmli_post.php เป็น htmli_post_bob.php
+-แล้วทำการ upload htmli_post_bob.php ขึ้น server
+
+
