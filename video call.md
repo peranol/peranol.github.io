@@ -7,7 +7,7 @@ https://www.youtube.com/watch?time_continue=1&v=vWZd3tJSIHo
 โทเค็นคือเป็นข้อมูลรับรองระยะสั้นที่ส่งผ่านไปยังบริการ vidyo.io จากจุดสิ้นสุดในเวลาเชื่อมต่อ หากคำขอเชื่อมต่อมีโทเค็นที่ถูกต้องการโทรจะสำเร็จ หากโทเค็นไม่ถูกต้องการโทรจะถูกปฏิเสธ  
  
 <p align="center">
-    <img src="PIC/What-is-a-token002.jpg">
+    <img src="PIC/Generate-A-Token002.jpg">
   </p>
 
 วิธีการรับโทเค็น  
